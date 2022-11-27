@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cypress": "^9.1.1"
+  },
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Brdoliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
